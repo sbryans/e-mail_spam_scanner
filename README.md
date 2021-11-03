@@ -21,7 +21,7 @@ pip install bs4
 ```
 
 ## How to operate:
-1. Navigate to the application's working directory.
+1. Navigate to the application's working directory
 ```
 python3 app.py
 ```
